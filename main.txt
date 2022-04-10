@@ -2,3 +2,6 @@ hello world
 
 def hello:
   print('123')
+
+def f2:
+  print('f2')
